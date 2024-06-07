@@ -6,33 +6,33 @@ This project is a blog platform created to share my personal travel experiences.
 
 ### Technologies and Programming Languages Used:
 
-Next.js: A React-based framework used for building server-side rendered applications.
-React: Used for developing user interfaces.
-Tailwind CSS: A utility-first CSS framework used for styling and layout.
+  Next.js: A React-based framework used for building server-side rendered applications.
+  React: Used for developing user interfaces.
+  Tailwind CSS: A utility-first CSS framework used for styling and layout.
 
 ### Pages and Their Functions:
 #### Home Page
-Provides a welcome screen for users.
-Contains links to blog posts and the contact page. Users can access blog posts and the contact form from the home page.
-Displays a list of all my blog posts. Each blog post summary includes the title, description, date, and photo.
-Users can click on blog posts to go to the detail page.
+  Provides a welcome screen for users.
+  Contains links to blog posts and the contact page. Users can access blog posts and the contact form from the home page.
+  Displays a list of all my blog posts. Each blog post summary includes the title, description, date, and photo.
+  Users can click on blog posts to go to the detail page.
 
 #### Blog Detail Page
-Shows the title, content, date, and photo of the selected blog post.
-Users can read the blog content in detail.
+  Shows the title, content, date, and photo of the selected blog post.
+  Users can read the blog content in detail.
 
 #### Contact Page
-Provides a contact form for users to get in touch with me.
-Includes fields for Name, Email, and Message.
+  Provides a contact form for users to get in touch with me.
+  Includes fields for Name, Email, and Message.
 
 #### Admin Panel
-Serves as the login page for accessing the admin panel to manage blog posts.
-Redirects admin users to manage or add new blog posts.
-Provides a form to add new blog posts.
-Provides a form to edit existing blog posts.The current title, content, and photo information can be edited. Includes buttons for deleting and updating the blog post.
+  Serves as the login page for accessing the admin panel to manage blog posts.
+  Redirects admin users to manage or add new blog posts.
+  Provides a form to add new blog posts.
+  Provides a form to edit existing blog posts.The current title, content, and photo information can be edited. Includes buttons for deleting and updating the blog post.
 
 
 ### Youtube Video
 If you want to see how the application works, you can find it at the following YouTube link:
-https://www.youtube.com/watch?v=hznbwH5_fys
+  https://www.youtube.com/watch?v=hznbwH5_fys
 
