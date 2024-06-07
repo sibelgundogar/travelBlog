@@ -1,36 +1,38 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Project Title
+Travel Blog
 
-## Getting Started
+## Description
+This project is a blog platform created to share my personal travel experiences. The aim is to provide detailed information about the places I visit, share my travel photos, and write articles about my trips. Visitors can also contact me and share their comments on my blog posts.  The admin panel facilitates easy management and control of blog content. The project is developed using modern web technologies and offers a user-friendly interface. The project is developed using Next.js and React.
 
-First, run the development server:
+### Technologies and Programming Languages Used:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Next.js: A React-based framework used for building server-side rendered applications.
+React: Used for developing user interfaces.
+Tailwind CSS: A utility-first CSS framework used for styling and layout.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Pages and Their Functions:
+#### Home Page
+Provides a welcome screen for users.
+Contains links to blog posts and the contact page. Users can access blog posts and the contact form from the home page.
+Displays a list of all my blog posts. Each blog post summary includes the title, description, date, and photo.
+Users can click on blog posts to go to the detail page.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+#### Blog Detail Page
+Shows the title, content, date, and photo of the selected blog post.
+Users can read the blog content in detail.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+#### Contact Page
+Provides a contact form for users to get in touch with me.
+Includes fields for Name, Email, and Message.
 
-## Learn More
+#### Admin Panel
+Serves as the login page for accessing the admin panel to manage blog posts.
+Redirects admin users to manage or add new blog posts.
+Provides a form to add new blog posts.
+Provides a form to edit existing blog posts.The current title, content, and photo information can be edited. Includes buttons for deleting and updating the blog post.
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Youtube Video
+If you want to see how the application works, you can find it at the following YouTube link:
+https://www.youtube.com/watch?v=hznbwH5_fys
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
