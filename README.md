@@ -1,7 +1,7 @@
 # Travel Blog
 
 ## Description
-This project is a blog platform created to share personal travel experiences. The aim is to provide detailed information about visited places, share travel photos, and write trip articles. Visitors can also contact the author and share their comments on blog posts. The admin panel facilitates easy management and control of blog content. Developed using modern web technologies, the project offers a user-friendly interface built with Next.js and React.
+This project is a blog platform created to share personal travel experiences. The aim is to provide detailed information about visited places, share travel photos, and write trip articles. Visitors can also contact the author and share their comments. The admin panel facilitates easy management and control of blog content. Developed using Next.js and React.
 
 ### Technologies and Programming Languages Used
 - **Next.js:** A React-based framework used for building server-side rendered applications.
